@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f3a7021.css",
-    "main.js": "/static/js/main.3d4b5169.js",
-    "index.html": "/index.html",
-    "main.4f3a7021.css.map": "/static/css/main.4f3a7021.css.map",
-    "main.3d4b5169.js.map": "/static/js/main.3d4b5169.js.map"
+    "main.css": "/Readme.md-generator/static/css/main.4f3a7021.css",
+    "main.js": "/Readme.md-generator/static/js/main.3d4b5169.js",
+    "index.html": "/Readme.md-generator/index.html",
+    "main.4f3a7021.css.map": "/Readme.md-generator/static/css/main.4f3a7021.css.map",
+    "main.3d4b5169.js.map": "/Readme.md-generator/static/js/main.3d4b5169.js.map"
   },
   "entrypoints": [
     "static/css/main.4f3a7021.css",
