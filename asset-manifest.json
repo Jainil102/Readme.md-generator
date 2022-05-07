@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jainil102/Readme.md-generator/static/css/main.4f3a7021.css",
+    "main.js": "/Jainil102/Readme.md-generator/static/js/main.3d4b5169.js",
+    "index.html": "/Jainil102/Readme.md-generator/index.html",
+    "main.4f3a7021.css.map": "/Jainil102/Readme.md-generator/static/css/main.4f3a7021.css.map",
+    "main.3d4b5169.js.map": "/Jainil102/Readme.md-generator/static/js/main.3d4b5169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3a7021.css",
+    "static/js/main.3d4b5169.js"
+  ]
+}
