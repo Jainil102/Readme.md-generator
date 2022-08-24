@@ -39,7 +39,7 @@
 <li>To run this project in your device, download the repository and open terminal in your editor and run command...</li>
 </ul><p><code style="margin-left:40px">npm start</code></p><ul>
 <li>Or you can directly visit</li>
-</ul><p><a href="https://hansalshah007.github.io/readme-generator/" target="_blank"><code style="margin-left:40px">https://hansalshah007.github.io/readme-generator/</code></a></p><h2>Project Status</h2>
+</ul><p><a href="https://jainil102.github.io/Readme.md-generator/" target="_blank"><code style="margin-left:40px">https://jainil102.github.io/Readme.md-generator/</code></a></p><h2>Project Status</h2>
 <p>Completed and open for your contributions.</p><h2>Improvements</h2>
 <ul>
 <li>A seperate tab for rendering markdown output can be introduced so that output can be visible in mobile view also.</li>
